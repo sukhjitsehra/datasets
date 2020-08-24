@@ -8,3 +8,5 @@ Weather in Szeged 2006-2016: Is there a relationship between humidity and temper
 
 
 Source: [Kaggle Dataset](https://www.kaggle.com/budincsevity/szeged-weather)
+
+Authot: Sukhjit Singh Sehra
