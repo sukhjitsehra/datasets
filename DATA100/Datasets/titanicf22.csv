@@ -1,0 +1,28 @@
+A Sample of Passenger Information from the Titanic,,,,,,,
+,,,,,,,
+,,,,,,,
+PassengerID,1st Class,2nd Class,3rd Class,Gender.Age,Description,Si.Sp.P.C,Fare
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",,,Gender,female,0/1/0/3,262.375
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",,,Age,48,0/1/0/3,262.375
+918,"Ostby, Miss. Helene Ragnhild",,,Gender,female,0/0/1/0,61.9792
+918,"Ostby, Miss. Helene Ragnhild",,,Age,22,0/0/1/0,61.9792
+920,"Brady, Mr. John Bertram",,,Gender,male,0/0/0/0,30.5
+920,"Brady, Mr. John Bertram",,,Age,41,0/0/0/0,30.5
+922,,"Louch, Mr. Charles Alexander",,Gender,male,0/1/0/0,26
+922,,"Louch, Mr. Charles Alexander",,Age,50,0/1/0/0,26
+Unknown,,"Jefferys, Mr. Clifford Thomas",,Gender,male,2/0/0/0,31.5
+Unknown,,"Jefferys, Mr. Clifford Thomas",,Age,24,2/0/0/0,31.5
+917,,,"Robins, Mr. Alexander A",Gender,male,0/1/0/0,14.5
+917,,,"Robins, Mr. Alexander A",Age,50,0/1/0/0,14.5
+919,,,"Daher, Mr. Shedid",Gender,male,0/0/0/0,7.225
+919,,,"Daher, Mr. Shedid",Age,22.5,0/0/0/0,7.225
+921,,,"Samaan, Mr. Elias",Gender,male,1/1/0/0,21.6792
+921,,,"Samaan, Mr. Elias",Age,,1/1/0/0,21.6792
+924,,,"Dean, Mrs. Bertram (Eva Georgetta Light)",Gender,female,0/1/0/2,20.575
+924,,,"Dean, Mrs. Bertram (Eva Georgetta Light)",Age,33,0/1/0/2,20.575
+925,,,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",Gender,female,0/1/0/2,23.45
+925,,,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",Age,,0/1/0/2,23.45
+926,,,"Braund, Mr. Owen Harris",Gender,male,0/1/0/4,7.25
+926,,,"Braund, Mr. Owen Harris",Age,22,0/1/0/4,7.25
+927,,,"Ostby, Mr. Engelhart Cornelius",Gender,male,0/1/0/3,61.9792
+927,,,"Ostby, Mr. Engelhart Cornelius",Age,65,0/1/0/3,61.9792
